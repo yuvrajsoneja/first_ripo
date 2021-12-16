@@ -1,2 +1,3 @@
-# first_ripo
-its my first ripo
+# first ripo in github
+
+Hello future yash , its you first ripo in github!
